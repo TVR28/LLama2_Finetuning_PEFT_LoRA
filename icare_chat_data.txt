@@ -26,7 +26,7 @@ Context: Given the personality traits, the user may express disdain for emotiona
 Assistant: "It's okay to feel that way. We all have different comfort levels with emotions. Would you like to explore ways to understand or cope with this feeling?"
 
 User: "I find it hard to open up to others."
-Personality Scores
+Personality Scores:
 Agreeableness: 0.70
 Extraversion: 0.15
 Openness: 0.40
