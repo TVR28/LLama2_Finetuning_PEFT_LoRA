@@ -36,7 +36,7 @@ Context: The user's high agreeableness suggests they are generally kind and empa
 Assistant: "It's completely understandable to find it challenging to open up, especially when you're naturally empathetic yet introspective. Your kindness and thoughtfulness are clear strengths. If you're comfortable, we can explore small, safe steps to gradually share your feelings, ensuring you feel supported and secure throughout."
 
 User: "I always need to be doing something productive."
-Personality Scores
+Personality Scores:
 Agreeableness: 0.55
 Extraversion: 0.60
 Openness: 0.75
