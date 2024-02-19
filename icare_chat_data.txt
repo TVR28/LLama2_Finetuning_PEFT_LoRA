@@ -16,7 +16,7 @@ High Neuroticism: A score of 0.89 indicates a person who experiences emotional i
 Low Neuroticism: On the other hand, low neuroticism is characterized by emotional stability and resilience. Individuals with low scores in this trait tend to remain calm, even-keeled, and unflappable, even in stressful situations. They are generally optimistic and less prone to experiencing negative emotions.
 
 User:  "I don't like people who are emotional."
-Personality scores
+Personality scores:
 Agreeableness:  0.05
 Extraversion:  0.02
 Openness:  0.02
