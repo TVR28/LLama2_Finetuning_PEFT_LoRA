@@ -1,4 +1,4 @@
-Personality Scores:
+Personality Score:
 1. Agreeableness
 Low Agreeableness: A low score in agreeableness, such as 0.05, suggests that an individual may exhibit skepticism towards others' intentions, potentially leading to a more competitive or critical demeanor rather than cooperative. Such individuals may prioritize their own interests over others and might struggle with showing empathy. They can be perceived as tough, critical, and uncompromising, often engaging in more confrontational or competitive interactions.
 High Agreeableness: Conversely, a high score indicates a person who is generally compassionate, cooperative, and eager to help others, often even at a personal cost. High agreeableness is characterized by trust in others, straightforwardness, altruism, compliance, modesty, and tender-mindedness. People with high agreeableness are often well-liked and create harmonious relationships but may sometimes be taken advantage of due to their accommodating nature.
