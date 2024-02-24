@@ -36,7 +36,7 @@ Clone this repository and open the notebooks in your preferred Jupyter environme
 3. The notebook guides you through fine-tuning the model, visualizing training plots through tensor board, performing inference, and storing the fine-tuned model.
 
 ### Google Gemma Fine-Tuning
-1. Load the Google Gemma model as described in the notebook.
+1. Load the `gemma-7b` model as described in the notebook.
 2. Follow the instructions to fine-tune the model on your dataset (either custom or a hugging face dataset).
 3. Test the outputs of the fine-tuned model.
 
