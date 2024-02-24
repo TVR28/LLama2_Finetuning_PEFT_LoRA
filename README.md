@@ -14,11 +14,14 @@ This repository contains two notebooks demonstrating the fine-tuning process for
 
 ### Dependencies
 For `Llama2_Fine_Tuning_HF.ipynb`:
-- `accelerate`
+-`python 3.10`
+- `torch`
+- `transformers`
 - `peft`
 - `bitsandbytes`
-- `transformers`
 - `trl` (for transformer reinforcement learning)
+- `huggingface_hub`
+
 
 The `Finetuning_Google_Gemma.ipynb` notebook may require similar dependencies, which are typically installed within the notebook.
 
