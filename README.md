@@ -1,4 +1,5 @@
 # Fine-Tuning Llama2 and Google Gemma Models Using LoRA and PEFT
+![image](https://github.com/TVR28/LLama2_Finetuning_PEFT_LoRA/assets/91713140/eb2d6dc5-94f8-47bc-a20a-0f2d99808fef)
 
 This repository contains two notebooks demonstrating the fine-tuning process for the Llama2 and Google Gemma models Low Rank Adaptation (LoRA) with Parameter Efficient Fine Tuning(PEFT) and Transformer Reinforcement Learning on custom datasets.
 
