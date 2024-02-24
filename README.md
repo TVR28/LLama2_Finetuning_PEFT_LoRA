@@ -26,7 +26,7 @@ For `Llama2_Fine_Tuning_HF.ipynb`:
 The `Finetuning_Google_Gemma.ipynb` notebook may require similar dependencies, which are typically installed within the notebook.
 
 ### Installation
-Clone this repository and open the notebooks in your preferred Jupyter environment. Ensure you have the required dependencies installed by running the installation commands provided in the notebooks.
+Clone this repository and open the notebooks in your preferred Jupyter environment. I prefer running them in Google Colab with the free tire T4 GPU. Ensure you have the required dependencies installed by running the installation commands provided in the notebooks.
 
 ## Usage
 
