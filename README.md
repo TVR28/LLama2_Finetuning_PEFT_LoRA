@@ -31,7 +31,7 @@ Clone this repository and open the notebooks in your preferred Jupyter environme
 ## Usage
 
 ### Llama2 Fine-Tuning
-1. Load the `llama-2-7b-chat-hf` model.
+1. Load the `llama-2-7b` model.
 2. Train the model on my custom dataset, referred to as "mental_health_data" in the notebook, or any hugging face dataset of choice.
 3. The notebook guides you through fine-tuning the model, visualizing training plots through tensor board, performing inference, and storing the fine-tuned model.
 
