@@ -4,7 +4,7 @@ This repository contains two notebooks demonstrating the fine-tuning process for
 
 ## Contents
 - `Llama2_Fine_Tuning_HF.ipynb`: Fine-tunes the Llama2 model using LoRA and PEFT on a custom dataset in a resource-constrained environment like Google Colab.
-- `Finetuning_Gemma_2b (1).ipynb`: Demonstrates the fine-tuning of the Google Gemma models (2B and 7B) using LoRA and PEFT.
+- `Finetuning_Google_Gemma.ipynb`: Demonstrates the fine-tuning of the Google Gemma models (2B and 7B) using LoRA and PEFT.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ For `Llama2_Fine_Tuning_HF.ipynb`:
 - `transformers`
 - `trl` (for transformer reinforcement learning)
 
-The `Finetuning_Gemma_2b (1).ipynb` notebook may require similar dependencies, which are typically installed within the notebook.
+The `Finetuning_Google_Gemma.ipynb` notebook may require similar dependencies, which are typically installed within the notebook.
 
 ### Installation
 Clone this repository and open the notebooks in your preferred Jupyter environment. Ensure you have the required dependencies installed by running the installation commands provided in the notebooks.
@@ -29,20 +29,17 @@ Clone this repository and open the notebooks in your preferred Jupyter environme
 
 ### Llama2 Fine-Tuning
 1. Load the `llama-2-7b-chat-hf` model.
-2. Train the model on your custom dataset, referred to as "icare_chat_data" in the notebook.
-3. The notebook guides you through fine-tuning the model, visualizing training plots, performing inference, and storing the fine-tuned model.
+2. Train the model on my custom dataset, referred to as "mental_health_data" in the notebook, or any hugging face dataset of choice.
+3. The notebook guides you through fine-tuning the model, visualizing training plots through tensor board, performing inference, and storing the fine-tuned model.
 
 ### Google Gemma Fine-Tuning
 1. Load the Google Gemma model as described in the notebook.
-2. Follow the instructions to fine-tune the model on your dataset.
+2. Follow the instructions to fine-tune the model on your dataset (either custom or a hugging face dataset).
 3. Test the outputs of the fine-tuned model.
 
 ## Additional Notes
 - Fine-tuning large language models requires careful consideration of resource constraints, especially in environments like Google Colab.
-- The notebooks provide insights into parameter-efficient fine-tuning, data preparation, and model evaluation.
+- The notebooks provide insights into parameter-efficient fine-tuning, data preparation, and model evaluation through tensor board.
 
 ## Contributing
 Contributions to improve the notebooks or the fine-tuning processes are welcome. Please ensure to follow the standard pull request process.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
